@@ -1,0 +1,6 @@
+{
+  "name": "Photo Tourism AR",
+  "description": "Snap or upload city photos to identify landmarks with AI, query deep histories via Google Search, and watch AR-style narrated audio clips with live tracking HUDs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
